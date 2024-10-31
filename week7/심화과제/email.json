@@ -1,0 +1,122 @@
+[
+    {
+        "from": "sender1@example.com",
+        "to": "recipient1@example.com",
+        "title": "프로젝트 킥오프 미팅",
+        "content": "안녕하세요, 프로젝트 킥오프 미팅에 대해 안내드립니다. 2024년 8월 15일 오전 10시에 본사 회의실에서 진행될 예정이니 참석 부탁드립니다."
+    },
+    {
+        "from": "sender2@example.com",
+        "to": "recipient2@example.com",
+        "title": "팀 점심 식사",
+        "content": "팀원들과 함께하는 점심 식사가 2024년 8월 20일 오후 12시 30분에 이탈리안 레스토랑에서 있을 예정입니다. 참석해 주세요."
+    },
+    {
+        "from": "sender3@example.com",
+        "to": "recipient3@example.com",
+        "title": "고객 프레젠테이션",
+        "content": "2024년 9월 5일 오후 3시에 고객사 회의실에서 프레젠테이션이 있습니다. 슬라이드 자료를 미리 준비해 주세요."
+    },
+    {
+        "from": "sender4@example.com",
+        "to": "recipient4@example.com",
+        "title": "월간 리뷰 미팅",
+        "content": "2024년 9월 25일 오전 11시에 메인 회의실에서 월간 리뷰 미팅이 열릴 예정입니다. 준비 부탁드립니다."
+    },
+    {
+        "from": "sender5@example.com",
+        "to": "recipient5@example.com",
+        "title": "교육 세션",
+        "content": "안녕하세요, 2024년 10월 10일 오전 9시에 교육 센터에서 교육 세션이 있을 예정입니다. 참석이 필수이니 참고 바랍니다."
+    },
+    {
+        "from": "sender6@example.com",
+        "to": "recipient6@example.com",
+        "title": "부서 미팅",
+        "content": "2024년 10월 15일 오후 2시에 3층 회의실에서 부서 미팅이 예정되어 있습니다. 중요한 논의가 있을 예정이니 참석 바랍니다."
+    },
+    {
+        "from": "sender7@example.com",
+        "to": "recipient7@example.com",
+        "title": "예산 검토",
+        "content": "2024년 11월 1일 오후 1시에 재무 회의실에서 예산 검토 회의가 있습니다. 필요한 자료를 미리 준비해 주세요."
+    },
+    {
+        "from": "sender8@example.com",
+        "to": "recipient8@example.com",
+        "title": "연말 파티",
+        "content": "안녕하세요, 2024년 12월 20일 오후 6시에 그랜드 호텔에서 연말 파티가 열립니다. 많은 참여 부탁드립니다."
+    },
+    {
+        "from": "sender9@example.com",
+        "to": "recipient9@example.com",
+        "title": "프로젝트 마감일",
+        "content": "2024년 12월 30일이 프로젝트 마감일입니다. 모든 산출물을 기한 내에 온라인으로 제출해 주세요."
+    },
+    {
+        "from": "sender10@example.com",
+        "to": "recipient10@example.com",
+        "title": "성과 리뷰",
+        "content": "안녕하세요, 2024년 11월 15일 오후 4시에 인사 회의실에서 성과 리뷰가 있을 예정입니다. 참석해 주세요."
+    },
+    {
+        "from": "sender11@example.com",
+        "to": "recipient11@example.com",
+        "title": "팀 빌딩 행사",
+        "content": "2024년 10월 25일 오전 10시에 공원에서 팀 빌딩 행사가 열릴 예정입니다. 즐거운 시간이 되기를 기대합니다."
+    },
+    {
+        "from": "sender12@example.com",
+        "to": "recipient12@example.com",
+        "title": "컨퍼런스 콜",
+        "content": "2024년 9월 12일 오후 2시에 온라인으로 컨퍼런스 콜이 예정되어 있습니다. 준비해 주세요."
+    },
+    {
+        "from": "sender13@example.com",
+        "to": "recipient13@example.com",
+        "title": "마케팅 전략 회의",
+        "content": "2024년 8월 28일 오전 11시에 마케팅 회의실에서 전략 회의가 열립니다. 참석 부탁드립니다."
+    },
+    {
+        "from": "sender14@example.com",
+        "to": "recipient14@example.com",
+        "title": "IT 유지보수",
+        "content": "2024년 10월 5일 오후 1시에 서버실에서 IT 유지보수가 진행될 예정입니다. 서비스 이용에 참고 바랍니다."
+    },
+    {
+        "from": "sender15@example.com",
+        "to": "recipient15@example.com",
+        "title": "고객 피드백 회의",
+        "content": "2024년 11월 10일 오후 3시에 고객 회의실에서 고객 피드백 회의가 있을 예정입니다. 참석해 주세요."
+    },
+    {
+        "from": "sender16@example.com",
+        "to": "recipient16@example.com",
+        "title": "개발팀 회의",
+        "content": "2024년 12월 5일 오후 2시에 개발 회의실에서 개발팀 회의가 열릴 예정입니다. 준비해 주세요."
+    },
+    {
+        "from": "sender17@example.com",
+        "to": "recipient17@example.com",
+        "title": "영업 전략 미팅",
+        "content": "2024년 9월 10일 오전 10시에 영업부 회의실에서 영업 전략 미팅이 있습니다. 참석 바랍니다."
+    },
+    {
+        "from": "sender18@example.com",
+        "to": "recipient18@example.com",
+        "title": "예산 보고",
+        "content": "2024년 11월 20일 오후 1시에 재무부 회의실에서 예산 보고가 있을 예정입니다. 준비 부탁드립니다."
+    },
+    {
+        "from": "sender19@example.com",
+        "to": "recipient19@example.com",
+        "title": "프로젝트 계획 회의",
+        "content": "2024년 10월 15일 오전 11시에 기획 회의실에서 프로젝트 계획 회의가 열릴 예정입니다. 참석해 주세요."
+    },
+    {
+        "from": "sender20@example.com",
+        "to": "recipient20@example.com",
+        "title": "HR 미팅",
+        "content": "2024년 12월 10일 오후 3시에 인사팀 회의실에서 HR 미팅이 있을 예정입니다. 참석 바랍니다."
+    }
+]
