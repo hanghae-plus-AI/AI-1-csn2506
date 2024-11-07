@@ -34,6 +34,9 @@
 ## wandb link
 https://wandb.ai/csn2506-diem/lora-rank-comparison/reports/train-loss-24-11-08-07-04-53---VmlldzoxMDA3NTY1MA
 
+file:///home/diem/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C/W&B%20Chart%202024.%2011.%208.%20%EC%98%A4%EC%A0%84%207_07_24.png
+
+
 ## log
 
 LoRA rank: 8로 학습 시작
