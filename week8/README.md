@@ -31,7 +31,10 @@
         ```
 ### 결과
 
+## wandb link
 https://wandb.ai/csn2506-diem/lora-rank-comparison/reports/train-loss-24-11-08-07-04-53---VmlldzoxMDA3NTY1MA
+
+## log
 
 LoRA rank: 8로 학습 시작
 Finishing last run (ID:h3r707di) before initializing another...
@@ -204,7 +207,7 @@ Find logs at: ./wandb/run-20241107_190053-fsexlw48/logs
 
 ### 장단점 분석
 
-loss는 세 랭크 값(rank_8, rank_128, rank_256)에서 손실의 변화가 거의 비슷한 것을 확인할 수 있음
-메모리 사용량에 대한 측정이 정확하지 않아 변화를 확인하지 못하였음
-랭크값이 낮을수록 학습속도가 낮았음
+# loss는 세 랭크 값(rank_8, rank_128, rank_256)에서 손실의 변화가 거의 비슷한 것을 확인할 수 있음
+# 메모리 사용량에 대한 측정이 정확하지 않아 변화를 확인하지 못하였음
+# 랭크값이 낮을수록 학습속도가 낮았음
 
