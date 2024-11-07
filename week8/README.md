@@ -34,7 +34,7 @@
 ## wandb link
 https://wandb.ai/csn2506-diem/lora-rank-comparison/reports/train-loss-24-11-08-07-04-53---VmlldzoxMDA3NTY1MA
 
-file:///home/diem/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C/W&B%20Chart%202024.%2011.%208.%20%EC%98%A4%EC%A0%84%207_07_24.png
+![W B Chart 2024  11  8  오전 7_07_24](https://github.com/user-attachments/assets/83baae28-1f6e-4574-8c12-c5809ab51227)
 
 
 ## log
